@@ -1,1 +1,1 @@
-# blog2
+# message board
